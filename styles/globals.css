@@ -24,3 +24,13 @@ a {
     background: black;
   }
 }
+
+* {
+  font-family: monospace;
+  font-size: 24px;
+}
+
+u {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
